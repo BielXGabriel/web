@@ -22,8 +22,12 @@ const PaginaDeLogin = () =>{
 
 
             <div className='s-coluna'>
-                <div>
-                    <h3>olá</h3>
+                <div >
+                <h3><nobr>PESSOAL   </nobr>  </h3> <h4><nobr> ENDEREÇO  </nobr>  </h4> <h5><nobr> CADASTRO   </nobr>  </h5>
+                
+
+                
+
                 </div>
 
             </div>

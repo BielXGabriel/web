@@ -1,5 +1,4 @@
 import './PaginaDeLogin.css'
- 
 const PaginaDeLogin = () =>{
     return(
         <div className='pagina'>
@@ -23,12 +22,26 @@ const PaginaDeLogin = () =>{
 
             <div className='s-coluna'>
                 <div >
-                <h3><nobr>PESSOAL   </nobr>  </h3> <h4><nobr> ENDEREÇO  </nobr>  </h4> <h5><nobr> CADASTRO   </nobr>  </h5>
-                
+                <h3><nobr> PESSOAL   </nobr>  </h3> 
+                <h4><nobr> ENDEREÇO  </nobr>  </h4> 
+                <h5><nobr> CADASTRO   </nobr>  </h5>
+                <h6><nobr> > </nobr></h6>
+                <h7><nobr> > </nobr></h7>
 
-                
 
+                <div className='s-nome '>
+                  
+                
+                  
+                  
+                
                 </div>
+
+            </div>
+
+            <div className='s-coluna'></div>
+
+
 
             </div>
 

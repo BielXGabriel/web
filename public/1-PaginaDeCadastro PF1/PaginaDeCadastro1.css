@@ -273,7 +273,7 @@ padding-right: 254px;
 .s-coluna h7{
     
     position: absolute;
-    width: 100px;
+    width: 200px;
     height: 750px;
     top: auto;
     position: absolute;
@@ -289,6 +289,36 @@ padding-right: 254px;
     margin-left: 530px;
 }
 
+.p-coluna h8{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 160px;
+    top: 120px;
+    display: flex;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 75px;
+    
+}
+
+.p-coluna h9{
+    position: absolute;
+    width: 300px;
+    height: 100px;
+    left: 860px;
+    top: 35px;
+    display: flex;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 20px;
+    line-height: 75px;
+}
 
 body {
     width: auto;
@@ -354,7 +384,7 @@ body {
     margin-top: 100px;
     border: 50px;
     background-color: #000814;
-    padding: 0.70rem;
+    padding: 0.90rem;
     border-radius: 10px;
     cursor: pointer;
     
@@ -365,8 +395,7 @@ body {
 
 .continue-button button a {
     text-decoration: none;
-    font-size: 0.93rem;
-    font-weight: 400;
+    font-size: 1rem;
     color: rgb(255, 255, 255);
 }
 
@@ -380,7 +409,14 @@ body {
 }
 
 
-/* Elementos de classe "campo" de tag <select> e <option>*/
-.campo select option {
-    padding-right: 10em;
+.campo select  {
+    margin-left: 190px;
+    padding-right: 10px;
+    width: 400px;
+    height: 30px;
+    color: #000814;
+    background-color: #F2EEE9;
+    border-top: none;
+    border-left: none;
+    border-right: none;
 }

@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+   
+    font-family: 'Poppins', sans-serif;
+}
+
+.pagina{
+    display: flex;
+    flex-flow: row;
+}
+
+
+@media (min-width:788.435px){
+    .s-coluna {width: 1000px  ; height: 1070px    ;background: #ffffff;}
+
+}
+
+
+body {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content:left;
+    align-items: center;
+    background: #ffffff;
+    
+}
+
+
+
+.assunto-button button {
+
+    margin-left: -900px;
+    margin-top: 180px;
+    border: 50px;
+    background-color: #000814;
+    padding: 1rem;
+    border-radius: 20px;
+    
+    position: absolute;
+}
+
+
+
+.assunto-button button a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+}
+
+.assunto-button3 button {
+
+    margin-left: -116px;
+    margin-top: -80px;
+    border: solid  #858181 ;
+    background-color:#F2EEE9;
+    border-radius: 16px ;
+    
+    position: absolute;
+}
+
+
+.assunto-button3 button a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #858181;
+}
+
+
+.assunto-button4 button {
+
+    margin-left: 40px;
+    margin-top: -80px;
+    border: solid  #858181 ;
+    background-color:#F2EEE9;
+    border-radius: 16px ;
+    
+    position: absolute;
+}
+
+
+.assunto-button4 button a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #858181;
+}
+
+
+
+.assunto-button5 button {
+
+    margin-left: -116px;
+    margin-top: 20px;
+    border: solid  #858181 ;
+    background-color:#F2EEE9;
+    border-radius: 16px ;
+    
+    position: absolute;
+}
+
+
+.assunto-button5 button a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #858181;
+}
+
+
+.assunto-button6 button {
+
+    margin-left: 40px;
+    margin-top: 20px;
+    border: solid  #858181 ;
+    background-color:#F2EEE9;
+    border-radius: 16px ;
+    
+    position: absolute;
+}
+
+
+.assunto-button6 button a {
+    text-decoration: none;
+    font-size: 1rem;
+    color: #858181;
+}
+
+
+
+
+
+
+
+.pular-button  {
+
+    margin-left: 1280px;
+    margin-top: -400px;
+    padding: 0.90rem;
+    border-radius: 10px;
+    cursor: pointer;
+    color: #000814;
+    font-size: larger;
+    
+    
+    position: absolute;
+}
+
+
+.tela2 {
+
+    height: 550px;
+    width: 1000px;
+    background-color: #F2EEE9;
+    margin-left: 430px;
+    margin-top: 10px;
+    border-radius: 50px;
+    border: solid #000814;
+    
+
+ 
+}
+
+
+.box {
+    height: 68px;
+    width: 68px;
+    background-color: #000814;
+    margin-left: -140px;
+    margin-top: 400px;
+    border-radius: 50px;
+    
+ }
+ 
+ .h1 {
+    margin-left: -45px;
+    margin-top: 420px;
+    color:#ffffff;
+    font-size:160%
+ }
+
+ .h2 {
+    margin-left: -800px;
+    margin-top: -380px;
+    color:#000814;
+    font-size:200%
+ }
+
+ .h3 {
+    margin-left: -630px;
+    margin-top: -200px;
+    color:#000814;
+    font-size:160%
+ }
+
+ .h4 {
+    margin-left: -115px;
+    margin-top: 20px;
+    color:#000814;
+    font-size:150%
+ }
+
+ .h5 {
+    margin-left: -145px;
+    margin-top: 350px;
+    color:#000814;
+    font-size:200%
+ }
